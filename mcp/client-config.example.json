@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "computefinder": {
+      "url": "https://computefinder.net/mcp",
+      "transport": "streamable-http"
+    }
+  }
+}
